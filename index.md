@@ -4,7 +4,7 @@ This is my home page! My name is Austin Lariz and I am a student at [Cal State F
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/austin9000.
+My GitHub page is <http://github.com/austin9000>.
 
 ### CPSC 120
 
