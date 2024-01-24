@@ -1,10 +1,10 @@
 # Hello World
 
-This is my home page! My name is Austin Lariz and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is computer engineering.
+This is my home page! My name is Austin Lariz and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) majoring in computer engineering.
 
 ## Computer Science Projects
 
-My GitHub page is <http://github.com/austin9000>.
+My GitHub page is <http://github.com/austinlariz>.
 
 ### CPSC 120
 
