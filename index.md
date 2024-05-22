@@ -1,6 +1,6 @@
 # Hello World
 
-This is my home page! My name is Austin Lariz and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) majoring in computer engineering.
+This is my home page! My name is Austin Lariz and I am a computer engineering student at [Cal State Fullerton](http://www.fullerton.edu/).
 
 ## Computer Science Projects
 
